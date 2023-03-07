@@ -1,2 +1,2 @@
 # Control-Systems-
-This is where all my control systems related projects are there.
+Plots have been plotted for a specific transfer function.
